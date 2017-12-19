@@ -45,6 +45,7 @@ class Cliente:
         print("----------")
         print("Name: "+self.name+", age: "+self.age)
         print("")
+    # Class Cliente could have more functions, add to TODO list
 
 # Main
 
